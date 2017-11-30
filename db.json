@@ -68,5 +68,37 @@
       "disciplinaId": 1,
       "ano": 2017
     }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Ronicley",
+      "senha": "123"
+    },
+    {
+      "id": 2,
+      "nome": "admin",
+      "senha": "admin"
+    }
+  ],
+  "pessoas": [
+    {
+      "id": 1,
+      "nome": "Ronicley",
+      "curso": "Ciencia da computação",
+      "cargo": "Analista de Sistemas"
+    },
+    {
+      "id": 2,
+      "nome": "Jennifer",
+      "curso": "Pedagogia",
+      "cargo": "Professora"
+    },
+    {
+      "id": 3,
+      "nome": "BB",
+      "curso": "Sistemas de Informação",
+      "cargo": "Estagiario"
+    }
   ]
 }
